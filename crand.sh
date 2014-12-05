@@ -4,8 +4,8 @@
 #
 
 #Define array of character for drawing
-characters=(a b c d e f g h i j k l m n o p w r s t u v w x y z)
-colors=(30 31 32 33 34 35 36 37)
+characters=(a b c d e f g h i j k l m n o p w r s t u v w x y z 0 1 2 3 4 5 6 7 8 9)
+colors=(31 32 33 34 35 36 37 39 90 91 92 93 94 95 96 97)
 cntc=${#characters[@]} #Number of characters
 cntcolor=${#colors[@]} #Number of colors
 
